@@ -1,1 +1,0 @@
-Patched & Colab-Ready implementation of Mobile-GS. Includes one-click training notebook, C++ compilation fixes (CUDA 12.x), and an embedded WebGL splat viewer.
