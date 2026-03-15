@@ -45,3 +45,15 @@ The easiest way to train and view a model is via the **[Interactive Colab Notebo
 
 
 It handles all C++ builds, dataset downloads, and 3D rendering automatically.
+
+## 🤝 Acknowledgments & Credits
+
+This project is an optimized fork of the original **[Mobile-GS](https://github.com/hbb1/Mobile-GS)** research implementation. 
+
+* **Original Authors:** Xiaobiao Du, Yida Wang, Kun Zhan, and Xin Yu.
+* **Core Research:** [Mobile-GS: Real-time Gaussian Splatting for Mobile Devices](https://arxiv.org/abs/2603.11531).
+* **WebGL Engine:** Built using the ultra-fast viewer by **[Antimatter15](https://github.com/antimatter15/splat)**.
+* **Infrastructure:** Developed and tested on **Google Colab** using the `uv` package manager for environment isolation.
+
+Special thanks to the open-source community for providing the building blocks for real-time 3D AI!
+
