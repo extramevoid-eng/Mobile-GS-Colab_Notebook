@@ -12,10 +12,18 @@
   <img src="https://img.shields.io/badge/Patched-CUDA_12.x-green" alt="Patched">
 </p>
 
-<h5 align="center">
-[![project](https://img.shields.io/badge/Webpage-blue)](https://xiaobiaodu.github.io/mobile-gs-project/)
-[![arXiv](https://img.shields.io/badge/Arxiv-2603.11531-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2603.11531)
-</h5>
+<p align="center">
+  <a href="https://xiaobiaodu.github.io/mobile-gs-project/">
+    <img src="https://img.shields.io/badge/Webpage-blue" alt="project">
+  </a>
+  <a href="https://arxiv.org/abs/2603.11531">
+    <img src="https://img.shields.io/badge/Arxiv-2603.11531-b31b1b.svg?logo=arXiv" alt="arXiv">
+  </a>
+  <a href="https://github.com/extramevoid-eng/Mobile-GS-Colab_Notebook/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
+  </a>
+</p>
+
 
 ---
 
